@@ -1,5 +1,5 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-1,blank_template,replace me with your title,,,
-2,plantilla_en_blanco,reemplázame con tu título,,,
-3,the-visual-history,The visual history of Isla Vista's Halloween ordinance,,Michelle Cisneros,
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+1,blank_template,replace me with your title,,,,
+2,plantilla_en_blanco,reemplázame con tu título,,,,
+3,the-visual-history,The visual history of Isla Vista's Halloween ordinance,,Michelle Cisneros,,
