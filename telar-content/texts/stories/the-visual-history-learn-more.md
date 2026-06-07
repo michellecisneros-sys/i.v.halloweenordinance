@@ -1,5 +1,5 @@
 ---
-title: "Learn More"
+title: "Learn more"
 ---
 
 **The Lead-Up**
