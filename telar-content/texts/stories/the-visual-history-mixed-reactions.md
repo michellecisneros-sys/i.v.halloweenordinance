@@ -8,9 +8,4 @@ title: "Mixed Reactions"
 
 "I drove 300 miles for this? I expected more people, more beer and more riots," a UCLA student said.
 
-"The main problem is people being considerate. There's a lot of flashers," said a UCSB student and volunteer.
-
-
-
-
-![](https://kommodo.ai/i/Bl329WBLQrriDuIFNCKp)
+"The main problem is people being considerate. There's a lot of flashers," said a UCSB student and volunteer. "It's hard for us to keep track. It's a lot more violent than last year."
